@@ -13,8 +13,6 @@
 
 - 👯 I’m looking to collaborate on **open source**
 
-- 🤝 I’m looking for help with **freelance**
-
 - 💬 Ask me about **Angular**
 
 - 📫 How to reach me **iamnasih.dev@gmail.com**
