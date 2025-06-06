@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Angular**
 
-- 🌱 I’m currently learning **NEXTJS**
+- 🌱 I’m currently learning **NEXT JS**
 
 - 👯 I’m looking to collaborate on **open source**
 
